@@ -1,2 +1,2 @@
 # workingwithbranches
-branches course practice
+GIt hub course on Pluralsight!
